@@ -21,3 +21,14 @@ Para verificar a situação do repositório (pasta) usamos o status a qualquer m
 git status
 ```
 
+## Comando de ADD .
+O ADD salva tudo o que está vinculado na pasta e o . é o local
+```bash
+git add .
+``` 
+
+## Comando Commit -m "Mensagem de até onde foi salvo - e a última etapa que foi realizada"
+O Commit serve para que seja salvo até onde "paramos" e até "onde foi salvo".
+```bash
+commit -m "msg"
+```
