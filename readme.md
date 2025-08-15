@@ -39,3 +39,16 @@ O Commit serve para que seja salvo até onde "paramos" e até "onde foi salvo".
 ```bash
 commit -m "msg"
 ```
+
+## Para baixar alterações que estão apenas no Github utilizamos o pull.<br>
+**IMPORTANTE:** Sempre que baixar a última versão da nuvem antes de enviar a atual do computador
+```bash
+git pull
+```
+
+## Para enviar os comits do pc para o Github utilizamos o push.
+```bash
+git push
+```
+
+
