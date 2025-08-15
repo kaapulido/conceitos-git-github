@@ -50,5 +50,8 @@ git pull
 ```bash
 git push
 ```
-
+Para baixar o repositório do Github em um novo computador utilizamos o clone.
+```bash
+git clone < url_do_repositorio_github >
+```
 
